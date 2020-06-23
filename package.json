@@ -1,8 +1,8 @@
 {
   "name": "hyper-statusline",
-  "version": "1.7.6",
+  "version": "1.8.0",
   "description": "Status Line Plugin for Hyper",
-  "main": "index.js",
+  "main": "hyper-statusline.js",
   "license": "MIT",
   "repository": "henrikdahl/hyper-statusline",
   "author": {
@@ -10,7 +10,7 @@
     "email": "henrik.dahlheim@gmail.com"
   },
   "files": [
-    "index.js"
+    "hyper-statusline.js"
   ],
   "keywords": [
     "hyper",
